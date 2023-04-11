@@ -1,0 +1,15 @@
+{
+  "name": "watermark-tool-built-in-javascript",
+  "author": "VulcanBullBear",
+  "version": "1.0.0",
+  "description": "A tool to add watermarks to images using JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fontkit": "^2.0.2",
+    "fs": "0.0.1-security",
+    "jimp": "0.16.2"
+  }
+}
